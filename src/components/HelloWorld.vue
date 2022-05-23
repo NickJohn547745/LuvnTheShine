@@ -36,23 +36,23 @@
       <v-window v-model="tab">
         <v-window-item>
           <h4 class="subheading">
-            Home Page
+            Home Page 
           </h4>
         </v-window-item>
         <v-window-item>
           <h4 class="subheading">
-            Product Page
+            Product Page 
           </h4>
         </v-window-item>
         <v-window-item></v-window-item>
         <v-window-item>
           <h4 class="subheading">
-            About Page
+            About Page 
           </h4>
         </v-window-item>
         <v-window-item>
           <h4 class="subheading">
-            Contact Page
+            Contact Page 
           </h4>
         </v-window-item>
       </v-window>
