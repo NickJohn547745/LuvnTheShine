@@ -1,0 +1,33 @@
+.logo {
+    position: fixed;
+
+    top: 0vh;
+    left: calc(50vw - (15vh / 2));
+
+    min-height: 100px;
+    height: 15vh;
+
+    border-radius: 50%;
+    z-index: 9999;
+    aspect-ratio: 1 / 1;
+}
+
+.router-link-active {
+    text-decoration: none;
+}
+
+.topBar {
+    position: relative;
+    min-height: 50px;
+    height: 10vh;
+    width: 100vh;
+}
+v-tab {
+    position: relative;
+    min-height: 50px;
+    height: 10vh;
+}
+
+v-window-item {
+    position: relative;
+}
